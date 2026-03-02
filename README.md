@@ -22,5 +22,3 @@ En este proyecto se utiliza la API Canvas 2D para dibujar un Porsche 911 inspira
 
 ## Autor
 Instituto Tecnológico Nacional de México | Campus Pachuca
-Alumno. Labra Lugo Kevin Bryan
-No. Control. 23200928
