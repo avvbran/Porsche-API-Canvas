@@ -21,4 +21,4 @@ En este proyecto se utiliza la API Canvas 2D para dibujar un Porsche 911 inspira
 - Favicon personalizado
 
 ## Autor
-Instituto Tecnológico Nacional de México | Campus Pachuca
+Instituto Tecnológico Nacional de México | Campus Pachuca | Labra Lugo Kevin Bryan | 23200928
