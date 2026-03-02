@@ -1,0 +1,23 @@
+body {
+    background: linear-gradient(to right, #1f1f1f, #2c3e50);
+    color: white;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h4 {
+    font-weight: 600;
+}
+
+canvas {
+    background: linear-gradient(to top, #87CEEB 70%, #dfe9f3 100%);
+    border-radius: 15px;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.5);
+}
+
+img {
+    border-radius: 15px;
+}
+
+footer {
+    font-size: 14px;
+}
